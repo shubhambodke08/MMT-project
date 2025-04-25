@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/software/selenium-server-4.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/bcpkix-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/bcprov-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/bcutil-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/commons-compress-1.26.0.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/commons-io-2.15.1.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/commons-lang3-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/docker-java-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/docker-java-api-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/docker-java-core-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/docker-java-transport-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/docker-java-transport-httpclient5-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/jna-5.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/slf4j-api-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/software/Webdriver manager/webdrivermanager-5.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
